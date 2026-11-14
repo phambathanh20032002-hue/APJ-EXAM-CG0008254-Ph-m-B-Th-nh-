@@ -1,0 +1,7 @@
+id,name,price,quantity,manufacturer,type,warrantyDays,warrantyScope,importCountry,status
+1,Samsung Galaxy S24 Ultra,31990000,10,Samsung,Chinh hang,365,Toan Quoc,,
+2,iPhone 15 Pro Max,34990000,5,Apple,Chinh hang,730,Quoc Te,,
+3,Xiaomi 14 Ultra,25990000,7,Xiaomi,Xach tay,,,Trung Quoc,Chua sua chua
+4,Google Pixel 8 Pro,21990000,3,Google,Xach tay,,,My,Da sua chua
+5,sam sung,1000000,10,samsung,Chinh hang,365,Toan Quoc,,
+6,CUONG,1000000,1,SAM SUNG,Xach tay,,,HAN QUOC,Da sua chua
